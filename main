@@ -1,0 +1,3 @@
+loadstring:HttpGet("https://raw.githubusercontent.com/GOOSEBUMPPS/silent/main/draxx", true)
+loadstring:HttpGet("https://raw.githubusercontent.com/GOOSEBUMPPS/silent/main/silent", true)
+loadstring:HttpGet("https://raw.githubusercontent.com/GOOSEBUMPPS/silent/main/skins", true)
